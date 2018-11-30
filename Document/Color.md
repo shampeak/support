@@ -1,51 +1,25 @@
-# F 【前端】
+# 
 
 ---
 
-```
-/index  首页  
-Contact
 
-
-Culture
-Introduction
-Investment
-Join
-Marketing
-Media
-News
-Newsh
-Readme
-Search
-
-
-
-
-
-```
-
-
+#code
     
-    默认分割线
-    <hr>
-     
-    赤色分割线
-    <hr class="layui-bg-red">
-     
-    橙色分割线
-    <hr class="layui-bg-orange">
-     
-    墨绿分割线
-    <hr class="layui-bg-green">
-     
-    青色分割线
-    <hr class="layui-bg-cyan">
-     
-    蓝色分割线
-    <hr class="layui-bg-blue">
-     
-    黑色分割线
-    <hr class="layui-bg-black">
-     
-    灰色分割线
-    <hr class="layui-bg-gray">
+    <ul class="site-doc-bgcolor">
+        <li><span class="text-red">文字</span></li>
+        <li><span class="text-yellow">文字</span></li>
+        <li><span class="text-aqua">文字</span></li>
+        <li><span class="text-blue">文字</span></li>
+        <li><span class="text-black">文字</span></li>
+        <li><span class="text-light-blue">文字</span></li>
+        <li><span class="text-green">文字</span></li>
+        <li><span class="text-gray">文字</span></li>
+        <li><span class="text-navy">文字</span></li>
+        <li><span class="text-teal">文字</span></li>
+        <li><span class="text-olive">文字</span></li>
+        <li><span class="text-lime">文字</span></li>
+        <li><span class="text-orange">文字</span></li>
+        <li><span class="text-fuchsia">文字</span></li>
+        <li><span class="text-purple">文字</span></li>
+        <li><span class="text-maroon">文字</span></li>
+    </ul>    

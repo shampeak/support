@@ -12,10 +12,6 @@
 use think\Route;
 
 
-//后台用的
-Route::rule('login','main/login/index');
-//Route::rule('login','main/password/login');
-
 
 return [
     '__pattern__' => [
